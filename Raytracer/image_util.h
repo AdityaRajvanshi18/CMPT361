@@ -1,0 +1,2 @@
+void saveImage();
+void histogramNormalization();
