@@ -13,4 +13,4 @@ Raytracer - An ambitious project where the interaction of light with objects was
 
 ![image 1](S1.bmp)
 ![image 2](S2.bmp)
-![image 3](S3.bmp)
+![image 3](S4.bmp)
